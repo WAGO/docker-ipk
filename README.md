@@ -1,4 +1,4 @@
-# docker-install
+# docker-ipk
 This repo contains static linked binaries of docker ce packed in linux ipk format.
 
 
