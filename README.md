@@ -2,19 +2,19 @@
 This repo contains static linked binaries of docker ce packed in linux ipk format.
 
 
-# How to install Docker CE on Wago Device (PFC200 2.Gen or WAGO Touch Panel) 
+# How to install Docker CE on Wago devices.
 
 ## Prerequisites for tutorial
-- Web browser of your choice. (e.g. chrome).
-- Wago PFC with min. firmware 12 or higher installed in flash. 
+- Wago PFC or Wago Touch Panel with min. firmware 12 or higher installed in flash. 
     - for firmware download or update see: https://github.com/WAGO/pfc-firmware-sdk
 - Wago <a href="https://github.com/WAGO/docker-ipk/releases" title="docker.ipk">docker.ipk</a>
 - PC with preinstalled SSH Client (e.g. https://www.putty.org/)
+- Web browser of your choice. (e.g. chrome).
 
 
 ## Installation
 
-1. Start PFC with FW12 and higher.
+1. Start Wago PFC.
 2. Open WBM (Web Base Management) menu "*Software Uploads*".
 
 <div style="text-align: center">
