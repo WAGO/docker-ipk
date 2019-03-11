@@ -6,8 +6,9 @@ This repo contains static linked binaries of docker ce packed in linux ipk forma
 
 ## Prerequisites for tutorial
 - Web browser of your choice. (e.g. chrome).
-- Wago PFC with min. firmware 12 or higher.
-- Wago docker_xx.xx.xx_armhf.ipk (link to github)
+- Wago PFC with min. firmware 12 or higher instaled in flash. 
+    - (for firmware update see https://www.youtube.com/watch?v=Ks1ak1zYVUg)
+- Wago <a href="https://github.com/WAGO/docker-ipk/releases" title="docker_18.09.0_armhf.ipk">docker_18.09.0_armhf.ipk</a> (TODO add right link to github)
 - PC with preinstalled SSH Client (e.g. https://www.putty.org/)
 
 
