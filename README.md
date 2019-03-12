@@ -55,6 +55,9 @@ docker info
 docker ps # to see all running container (no container should run)
 docker images # to see all preinstalled images
  ```
+## Known issues
+For a properly functioning Docker bridge network, the firewall has to be disabled. If you have the need to enable the firewall, just use the docker overlay or macvlan network drivers. 
+
 ## Links
  1. <a href="https://www.wago.com/de/" title="wago">https://www.wago.com/de/</a>
  2. <a href="https://github.com/docker/docker-ce" title="docker ce">https://github.com/docker/docker-ce</a>
