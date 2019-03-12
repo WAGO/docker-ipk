@@ -6,7 +6,7 @@ This repo contains static linked binaries of docker ce packed in linux ipk forma
 
 ## Prerequisites for tutorial
 - Wago PFC or Wago Touch Panel with min. firmware 12 or higher installed in flash. 
-    - for firmware download or update see: https://github.com/WAGO/pfc-firmware-sdk
+    - for firmware download or update see: https://github.com/WAGO/pfc-firmware
 - Wago <a href="https://github.com/WAGO/docker-ipk/releases" title="docker.ipk">docker.ipk</a>
 - PC with preinstalled SSH Client (e.g. https://www.putty.org/)
 - Web browser of your choice. (e.g. chrome).
