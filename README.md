@@ -6,7 +6,7 @@ Check Release tags to get the newest version.
 # How to install Docker CE on Wago devices.
 
 ## Prerequisites for tutorial
-- Wago PFC Generation 2 (e.g. 750-8212, 750-8213..)  or Wago Touch Panel 600 (e.g 0762-4104, 0762-4103..) with min. firmware 12 or higher installed in flash. 
+- Wago PFC Generation 2 (e.g. 750-8212, 750-8213..)  or Wago Touch Panel 600 (e.g 0762-4104, 0762-4103..) or the new Edge Controller (e.g 0752-8303...)with min. firmware 12 or higher installed in flash. 
     - for firmware download or update see: https://github.com/WAGO/pfc-firmware
 - Wago <a href="https://github.com/WAGO/docker-ipk/releases/download/v1.0.3-beta/docker_19.03.13_armhf.ipk">docker.ipk</a>
 - PC with preinstalled SSH Client (e.g. https://www.putty.org/)
