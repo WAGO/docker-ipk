@@ -1,4 +1,4 @@
-# docker-ipk
+# docker-ipk-preview
 This repo contains static linked binaries of docker ce packed in linux ipk format.
 Check Release tags to get the newest version.
 
