@@ -60,7 +60,7 @@ Enjoy the power of the whale!
 
 Due to the lack of memory on the "home" partition it is interesting to move the docker "data-root" to an SD card.
 This approach offers the following advantages: 
-- positioning of more docker imgaes on the PFC. 
+- positioning of more docker images on the PFC. 
 - any images / containers can be pre-installed by replacing the SD card.
 - the physical portability of the images / containers increases.
 
