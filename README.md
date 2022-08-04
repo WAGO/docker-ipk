@@ -9,11 +9,11 @@ Check Release tags to get the newest version.
 - Wago PFC Generation 2 (e.g. 750-8212, 750-8213..)
 - Wago Touch Panel 600 (e.g 0762-4104, 0762-4103..)
 - Edge Controller (e.g 0752-8303...)with min. firmware 12 or higher installed in flash.
-- NEW, CC100 plc (e.g. 751-9301)
+- <H4>NEW, CC100 plc (e.g. 751-9301)</H4>
 - for firmware download or update see: https://github.com/WAGO/pfc-firmware
 - Wago <a href="https://github.com/WAGO/docker-ipk/releases/download/v1.0.4-beta/docker_20.10.5_armhf.ipk">docker.ipk</a>
 - PC with preinstalled SSH Client (e.g. https://www.putty.org/)
-- Web browser of your choice. (e.g. chrome).
+- Web browser of your choice. (e.g. chrome)
 
 
 ## Installation
