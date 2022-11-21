@@ -1,6 +1,6 @@
 # docker-ipk-preview
 This repo contains static linked binaries of docker ce packed in linux ipk format.
-Check Release tags to get the newest version. <H3>Check needed FW</H3>
+Check Release tags to get the newest version.Check needed FW.
 
 
 # How to install Docker CE on Wago devices.
