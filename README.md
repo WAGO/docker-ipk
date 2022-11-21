@@ -8,7 +8,7 @@ This repo contains static linked binaries of docker ce packed in linux ipk forma
 - Wago PFC Generation 2 (e.g. 750-8212, 750-8213..)
 - Wago Touch Panel 600 (e.g 0762-4104, 0762-4103..)
 - Edge Controller (e.g 0752-8303...)with min. firmware 12 or higher installed in flash.
-<H1>Notice: Only FW19 is supported, no swarm integration actual!!</H1>
+<H1>Notice: Only FW17-18-19 is supported, no swarm integration actual!!</H1>
 <hr>
 <H3>NEW, CC100 plc (e.g. 751-9301)</H3><H1>Notice: Only FW19 is supported, no swarm integration actual!!</H1>
 <hr>
