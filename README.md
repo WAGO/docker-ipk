@@ -10,7 +10,7 @@ Check Release tags to get the newest version.
 - Wago Touch Panel 600 (e.g 0762-4104, 0762-4103..)
 - Edge Controller (e.g 0752-8303...)with min. firmware 12 or higher installed in flash.
 <hr>
-- <H4>NEW, CC100 plc (e.g. 751-9301)</H4> Notice: Only FW19 is supported, no swarm integration actual!!
+<H4>NEW, CC100 plc (e.g. 751-9301)</H4><br><H1>Notice: Only FW19 is supported, no swarm integration actual!!</H1>
 <hr>
 - for firmware download or update see: https://github.com/WAGO/pfc-firmware
 - Wago <a href="https://github.com/WAGO/docker-ipk/releases/download/v1.0.4-beta/docker_20.10.5_armhf.ipk">docker.ipk</a>
