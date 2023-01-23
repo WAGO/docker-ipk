@@ -11,7 +11,7 @@ This repo contains static linked binaries of docker ce packed in linux ipk forma
 <H1>Notice: Only FW 17-18-19 is supported for older Versions.<br>
 Using actual Version fits since FW20 up to date.</H1>
 <hr>
-<H3>NEW, CC100 plc (e.g. 751-9301)</H3><H1>Notice: Since FW 19 no swarm integration actual on all PLC's.!!</H1>
+<H3>NEW, CC100 PLC (e.g. 751-9301)</H3><H1>Notice: Since FW 19 no swarm integration actual on all PLC's.!!</H1>
 <hr>
 - for firmware download or update see: https://github.com/WAGO/pfc-firmware
 - Wago <a href="https://github.com/WAGO/docker-ipk/releases/download/v1.0.4-beta/docker_20.10.5_armhf.ipk">docker.ipk</a>
