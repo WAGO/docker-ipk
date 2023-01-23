@@ -7,8 +7,8 @@ This repo contains static linked binaries of docker ce packed in linux ipk forma
 ## Prerequisites for tutorial
 - Wago PFC Generation 2 (e.g. 750-8212, 750-8213..)
 - Wago Touch Panel 600 (e.g 0762-4104, 0762-4103..)
-- Edge Controller (e.g 0752-8303...)
-- CC100 PLC (e.g. 751-9301....)
+- Edge Controller (e.g 0752-8303..)
+- CC100 PLC (e.g. 751-9301..)
 <br>ALL DEVICES: => with min. firmware 12 or higher installed in flash.
 <hr>
 <H1>Notice: Only FW 17-18-19 is supported for older Versions.<br>
