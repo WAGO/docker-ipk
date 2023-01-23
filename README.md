@@ -115,6 +115,6 @@ docker images # to see all preinstalled images
  1. <a href="https://www.wago.com/de/" title="wago">https://www.wago.com/de/</a>
  2. <a href="https://github.com/docker/docker-ce" title="docker ce">https://github.com/docker/docker-ce</a>
 <HR>
-DISCLAIMER<br>
+<H2>DISCLAIMER:</H2><br>
 THE OWNER MAKES NO WARRANTIES, EXPRESS OR IMPLIED, WITH RESPECT TO THE CONFIDENTIAL INFORMATION AND HEREBY EXPRESSLY DISCLAIMS ANY AND ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
 <HR>
