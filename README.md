@@ -105,11 +105,11 @@ This approach offers the following advantages:
      ```
  5. Check docker functionality.
 
-```bash
-docker info
-docker ps # to see all running container 
-docker images # to see all preinstalled images
- ```
+     ```bash
+     docker info
+     docker ps # to see all running container 
+     docker images # to see all preinstalled images
+      ```
 
 ## Links
  1. <a href="https://www.wago.com/de/" title="wago">https://www.wago.com/de/</a>
