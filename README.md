@@ -10,6 +10,7 @@ This repo contains static linked binaries of docker ce packed in linux ipk forma
 - Edge Controller (e.g 0752-8303...)
 - CC100 PLC (e.g. 751-9301....)
 <br>ALL DEVICES: => with min. firmware 12 or higher installed in flash.
+<HR>
 <H1>Notice: Only FW 17-18-19 is supported for older Versions.<br>
 Using actual Version fits since FW20 up to date.</H1>
 
