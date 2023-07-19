@@ -15,7 +15,7 @@ This repo contains static linked binaries of docker ce packed in linux ipk forma
 Using actual Version fits since FW20 up to date.</H1>
 
 - for firmware download or update see: https://github.com/WAGO/pfc-firmware
-- Wago <a href="https://github.com/WAGO/docker-ipk/releases/download/v1.0.4-beta/docker_20.10.5_armhf.ipk">docker.ipk</a>
+- Wago <a href="https://github.com/WAGO/docker-ipk/releases/download/v1.0.5-beta/docker_20.10.14_armhf.ipk">docker.ipk</a>
 - PC with preinstalled SSH Client (e.g. https://www.putty.org/)
 - Web browser of your choice. (e.g. chrome)
 
